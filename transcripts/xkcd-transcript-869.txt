@@ -1,4 +1,0 @@
-[Single server in a server rack.]
-Server: Hi! I'm a server! Who are you?
-[Mobile device with a web browser.]
-Browser: I'm a browser. I'd like to see this article.

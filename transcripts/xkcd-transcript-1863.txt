@@ -1,7 +1,0 @@
-
-[The left side of the panel shows three images. The largest image is a screenshot of text with the middle section highlighted and margins and top and bottom rows marked with red lines and arrows. The two smaller images below are cropped versions of the screenshot in the first image: the left image has an incorrect "squashed" aspect ratio and a red X on it, while the right image has a correct aspect ratio and a green check mark.]
-[The right side of the panel:]
-
-
-[Caption below the panel:]
-My class on screenshots was a big hit, although for some reason I only ever sold one copy of the digital textbook.

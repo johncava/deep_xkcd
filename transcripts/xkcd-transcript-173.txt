@@ -1,6 +1,0 @@
-At the movies, I get frustrated when we file into our row haphazardly, ignoring the computationally difficulty problem of seating people together for maximum enjoyment.
-[Map of relationships between 8 people.]
-[Legend:] 
-
-[The eight friends sit in a row in a dark cinema. Cueball and one other are between two lovers.]
-Cueball: Guys! This is not socially optimal!

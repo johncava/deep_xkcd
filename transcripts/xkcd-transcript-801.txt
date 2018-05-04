@@ -1,5 +1,0 @@
-[Black Hat is going through a door, a bottle in his hand. A voice speaks to him from off panel.]
-Cueball: Seriously? This thing runs  It's single-purpose hardware!
-[Cueball is sitting at a computer, holding some device which is wired to a box, and pointing at the screen.]
-Cueball: I bet they actually hired someone to spend six months porting this JVM so they could write their 20 lines of code in a familiar setting.
-[Black Hat has a pair of bolt cutters in the hand that had been obscured in the first panel.]

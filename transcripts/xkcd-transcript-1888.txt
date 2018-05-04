@@ -1,2 +1,0 @@
-[Cueball is trying to take out a trash bag from his garbage can.]
-Trash: Sorry, you can't empty the garbage yet. A paper towel in here is currently in use by some object in your house.

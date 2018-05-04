@@ -1,2 +1,0 @@
-[A game board with 8x8 white squares and black borders, like a goboard or an all white chessboard, there are white chess pieces in starting position on the bottom after Pe3, Pd4, Nf3, Nc3, Bd2 and five black Go pieces on the vertices in the center of the board at d4 d5 c6 g4 g6.]
-White to continue insisting this is a chessboard

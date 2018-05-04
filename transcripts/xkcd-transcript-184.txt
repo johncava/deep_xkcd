@@ -1,2 +1,0 @@
-[A square matrix next to a vertical two-by-one matrix, equated to a horizontal matrix that looks like the two-by-one matrix turned 90 degrees.]
-[Square matrix:

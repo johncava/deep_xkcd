@@ -1,6 +1,0 @@
-[A line graph with a curve that starts just right of the Y-axis above the middle of the axis. Then it increases slightly and stays almost stable on a long flat plateau before it falls off fast towards the right.  Each axis ends in an arrow and has a label to the left of the Y-axis and below the x-axis. Over the curve there are three labels, pointing with one arrow to the two rising and falling parts, and three arrows to the center label above the plateau.]
-Y-axis: Probability houseguest will be able to connect to WiFi
-X-axis: Houseguest tech-savviness
-Left label: Can't find wifi settings
-Center label: Works fine
-Right label: Something involving the word "firmware"

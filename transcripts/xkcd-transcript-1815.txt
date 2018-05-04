@@ -1,7 +1,0 @@
-[A two colored flag is shown. The left and rightmost parts of the flag are dark blue, and the center is red and each section has a large white star in its center. The colored parts are separated by thinner white vertical stripes. At the top of the flag, there is an off-white status bar like one found at the top of an iOS smart device. On the left it is displaying the strength of the connection (3/5 dots), in the center it is displaying the time and on the right there are three small icons the last is the battery charge:]
-3G
-5:48 PM 
-39%
-[Below the panel there are two captions]
-The design committee fired me once they realized that my editing process involved a screenshot, but it was too late.
-Until they change it, our new country has the only national flag to include a phone notification bar.

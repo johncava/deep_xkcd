@@ -1,9 +1,0 @@
-[Cueball is in bed, presumably trying to sleep. The top of each panel is a thought bubble showing sheep leaping over a fence and Cueball's counting and the sheeps baaing is written above the sheeps. Two sheep are jumping from left to right in the first panel.]
-1... 2...
-Sheep: Baaa
-[Two sheep are jumping from left to right. Cueball is holding his pillow.]
-... 1,306... 1,307...
-Sheep: Baaa
-[A whole flock of sheep (nine visible) is jumping over the fence from right to left, the first and last sheep is cut of at the edge of the frame. Also the last baaa is cut of after one a. Cueball is now sitting up looking up at his thought bubble.]
-... 32,767 ...-32,768...
-Sheep's: Baaa baaa baaaa baaa ba

@@ -1,8 +1,0 @@
-[Above a bar graph:]
-11th-grade activities:
-[The y axis is labeled:]
-Usefulness to career success
-[Above the x-axis are two small and one huge bar. Below the axis each bar is labeled:]
-900 hours of classes
-400 hours of homework
-One weekend messing with Perl

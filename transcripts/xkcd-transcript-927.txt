@@ -1,8 +1,0 @@
-How Standards Proliferate
-(See: A/C chargers, character encodings, instant messaging, etc.)
-Situation: 
-There are 14 competing standards.
-Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases.
-Ponytail: Yeah!
-Soon:
-Situation: There are 15 competing standards.

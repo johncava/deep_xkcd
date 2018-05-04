@@ -1,5 +1,0 @@
-How to make boring technical reports more fun to read:
-Imagine they were written and sent in, unsolicited, by the estranged spouse of the head of the project.
-[Cueball is crouching alone over his computer in an empty room, typing on a laptop. He is surrounded by papers and books, apparently related to whatever project is working on. The laptop has a message on it, the text of which is displayed above the computer.]
-Computer: Six guard rails have erratic reflector placement, and one even lacks reflectors entirely, despite rule G31.02(b) clearly mandating consistent usage.
-Cueball: ...Sharon!

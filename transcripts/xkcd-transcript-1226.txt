@@ -1,8 +1,0 @@
-[Cueball sits on a hill reading a book.]
-[Cueball remains engrossed in the book. A balloon with a box at the end of the string begins to descend behind him.]
-[Cueball continues reading. The balloon is getting lower.]
-[The balloon's box is now right behind Cueballs's ear.]
-Balloon box: .
-Cueball: Augh!
-[Cueball throws the book in surprise.]
-[The balloon ascends rapidly, while the startled Cueball looks up.]

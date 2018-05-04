@@ -1,4 +1,0 @@
-[10 boxes for 10 digits of a U.S. phone number. The first three are grouped by parentheses. A hyphen separates the second set of three and the last four.]
-[Label titled "Your seven random digits" pointing at seven empty boxes.]
-[Label titled "Where you lived in 2005" pointing at three empty boxes preceding the seven.]
-Structure of a US cell phone number.

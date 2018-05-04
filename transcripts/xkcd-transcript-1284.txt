@@ -1,7 +1,0 @@
-[Cueball walks on screen, holding a phone, and starts talking to Black Hat.]
-Cueball: Did you get my texts?
-Black Hat: You should install this keyboard I found.
-Cueball: What? Why? Is it better than SwiftKey?
-Black Hat: In some ways.
-[Black Hat begins to walk off-panel.]
-Cueball: Ok, installing...

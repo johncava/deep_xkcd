@@ -1,5 +1,0 @@
-WikiFriends:
-[Two people are talking to each other.]
-Cueball: I really liked that movie.
-Friend: I hated that movie.
-Cueball: Me too.

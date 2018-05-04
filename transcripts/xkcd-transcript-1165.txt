@@ -1,8 +1,0 @@
-Round 14
-Estimated outflow volume
-in cubic meters per second
-[A cube of water representing the outflow of the Amazon, with various marine life in it and people standing around it.]
-Amazon 220,000
-[A pile of boxes representing the outflow of Amazon.com, dwarfed by the large cube of water next to it.]
-Amazon.com 0.9
-Advantage: Amazon

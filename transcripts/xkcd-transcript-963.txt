@@ -1,6 +1,0 @@
-
-
-
-[The comic is a graph with a curve starting at (0,0) that snakes toward the upper right of the graph. The axis are labelled:]
-x axis: Time since I last had to open Xorg.conf
-y axis: General satisfaction with how my life is going

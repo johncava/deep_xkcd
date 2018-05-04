@@ -1,3 +1,0 @@
-I'm glad we're switching to 64-bit, because I wasn't looking forward to convincing people to care about the Unix 2038 problem.
-Friend: What's that?
-Cueball (arms raised high): Remember Y2K? This could be even 

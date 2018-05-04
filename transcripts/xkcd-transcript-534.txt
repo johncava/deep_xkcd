@@ -1,7 +1,0 @@
-[Code displayed, presumably from an IDE.]
-def getSolutionCosts(navigationCode):
-
-[There is a giant arrow pointing to the next line.]
-
-Genetic algorithms tip:
- include this in your fitness function.

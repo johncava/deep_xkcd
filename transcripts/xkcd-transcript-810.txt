@@ -1,8 +1,0 @@
-[Cueball is talking to Megan.]
-Cueball: Spammers are breaking traditional Captchas with AI, so I've built a new system. It asks users to rate a slate of comments as "Constructive" or "Not constructive."
-[Close up of Cueball.]
-Cueball: Then it has them reply with comments of their own, which are later rated by other users.
-[Megan standing next to Cueball again.]
-Megan: But what will you do when spammers train their bots to make automated constructive and helpful comments?
-[Close up of Cueball again.]
-Cueball: . . .

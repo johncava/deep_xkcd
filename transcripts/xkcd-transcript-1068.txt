@@ -1,6 +1,0 @@
-[Cueball shows off phone to Megan.]
-Cueball: Have you tried SwiftKey? It's got the first decent language model I've seen. It learns from your SMS/Email archives what words you use together most often.
-Cueball: Spacebar inserts its best guess. So if I type "The Empi" and hit space three times, it types "The Empire Strikes Back".
-Megan: What if you mash space in a blank message?
-Cueball: I guess it fills in your most likely first word, then the word that usually follows it...
-Megan: So it builds up your "typical" sentence. Cool! Let's see yours!

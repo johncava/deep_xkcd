@@ -1,5 +1,0 @@
-[A surgeon is standing over a patient on a gurney.]
-Patient: While you're doing the surgery, can you also implant this in my arm?
-Surgeon: A USB port?
-Patient: Just wire it up to some nerves.
-Surgeon: ...This won't let your brain control USB devices, you know.

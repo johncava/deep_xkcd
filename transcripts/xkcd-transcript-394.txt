@@ -1,4 +1,0 @@
-There's been a lot of confusion over 1024 vs 1000,
-kbyte vs kbit, and the capitalization for each.
-Here, at last, is a single, definitive standard:
-[table of various kinds of kilobytes]

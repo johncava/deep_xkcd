@@ -1,3 +1,0 @@
-My Hobby
-[A tree graph of Tamagotchis.]
-Running a massive distributed computing project that simulates trillions and trillions of Tamagotchis and keeps them all constantly fed and happy

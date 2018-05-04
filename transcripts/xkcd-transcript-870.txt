@@ -1,5 +1,0 @@
-The equation at the top of the panel expresses the same thing using  notation.  It reads out as: The  of  A and B equals the set of all x, such that x is  15, or greater than 15, which equals the set of all .
-The same is expressed again with a ; the numbers being interpreted as .  The first range, ending with a black dot, indicates that everything below, as well as the number 15, is included ("up to 15%").  The second range beginning with a white dot indicates that it only includes numbers strictly bigger than 15 ("more than 15%").  The two ranges combined clearly cover the entire number line.
-Geico's advertising is also referenced in .
-We are even given a little formula to calculate the average amount of money they expect to make from the readers. The assumption is that they expect to generate at least as much income from the ad as what they paid to print and publish it in the first place.
-Mathematically Annoying Advertising:

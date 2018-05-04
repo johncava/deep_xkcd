@@ -1,5 +1,0 @@
-[There are three rows equally filled with squares and above are year dates beginning from 2002 until 2017. The first year is cut on the left and the color is light gray then fading in to black until 2005. Left of the three rows the text reads:]
-Total eclipse
-Aurora
-Meteor storm
-[Below the year 2017 the squares in the first two rows are checked.]

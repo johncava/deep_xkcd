@@ -1,8 +1,0 @@
-[Cueball sits at a computer.]
-Computer Screen: -Email Account Setup- To verify your identity, we need to ask you a question nobody else could answer.
-Computer Screen: Q: Where are the bodies buried? A:
-[A text field is shown with "Behind the" typed.]
-[Cueball sits back and thinks.]
-[Three stick figures, two wearing police hats and one wearing headphones, watch another computer.]
-[The same text field is shown with "Behind the ... nice try." typed.]
-Figure in Headphones: Damn.

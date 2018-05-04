@@ -1,7 +1,0 @@
-
-[Cueball is sitting at a laptop with a window with a red title bar floating over his head.]
-Adobe Update
-There is an update for:
-
-This update will allow you to download the new updates to the Adobe Update Downloader.
-[OK] [Download]

@@ -1,6 +1,0 @@
-[A scatter plot with five labeled dots is drawn. The x-axis reads "How cool it sounds like it would be" and the y-axis is labeled with "How cool it is to see in person".]
-[Bottom left] 
-[Bottom middle] 
-[Low left-center] 
-[Low-center middle] 
-[Upper right, with a dotted arrow above it pointing up] Total solar eclipse

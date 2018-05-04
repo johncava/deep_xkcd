@@ -1,3 +1,0 @@
-AAAAAAAA
-[A swarm of insects cover Cueball and his computer. He is leaning back on their chair, flailing to get away.]
-My package made it into Debian-main because it looked innocuous enough; no one noticed "locusts" in the dependency list.

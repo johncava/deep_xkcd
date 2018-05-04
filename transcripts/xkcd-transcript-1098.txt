@@ -1,5 +1,0 @@
-Understanding online star ratings:
-5 stars: [Has only one review]
-4.5 stars: Excellent
-4 stars: OK
-3.5-1 star: Crap.

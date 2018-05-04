@@ -1,7 +1,0 @@
-[Cueball sits at a desk. A message is being displayed on Cueball's laptop screen.]
-: Critical update available!
-[The message continues.]
-: Fixes an issue that was causing random laptop electrical fires.
-(This update will require restarting your computer.)
-[Cueball clicks on .]
-

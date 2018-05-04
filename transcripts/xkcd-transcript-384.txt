@@ -1,6 +1,0 @@
-The Drake Equation:
-N = R* f n f f f L B
-N: Number of communicating civilizations in our galaxy
-n: Number of life-supporting planets per solar system
-f: Probability that life on a planet becomes intelligent
-B: Amount of bullshit you're willing to buy from Frank Drake

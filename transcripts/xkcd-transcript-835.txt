@@ -1,3 +1,0 @@
-[There is a binary Christmas tree, with each node a ball, and lights strung between parent and child nodes. Beneath it is a heap of presents - sorted with the largest on top, smaller presents connected to it with string. Next to the tree is Cueball and his parents, Hairbun and another Cueball.]
-Cueball: It's a Christmas tree with a heap of presents underneath!
-Mother: ...We're not inviting you home next year.

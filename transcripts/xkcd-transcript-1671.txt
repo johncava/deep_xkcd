@@ -1,8 +1,0 @@
-[A horizontal graph with arrows pointing left and right with labels. The line has  three ticks one towards each end and one in the middle above which Cueball is drawn. Below each tick there is a caption. There is a caption at the top of the panel:]
- Willingness to wade through some 80's programmer's arcane bullshit:
-[Left end:] Low
-[Left tick:] Never learn to program
-[Above Cueball:] Me
-[Center tick:] Learn enough to break everything but not enough to fix it
-[Right end:] High
-[Right tick:] Spend all your time compiling kernels and never make anything

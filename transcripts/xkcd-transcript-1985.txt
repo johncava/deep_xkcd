@@ -1,3 +1,0 @@
-[Cueball is presenting a weather forecast while seated with his folded hands resting on a table. A graphic to the left of Cueball shows the weather for five consecutive hours from 12pm to 4pm, each with a rainy cloud icon and the same percentage of 20% written below the icon. The TV channel's logo is shown on the bottom left, with the 4 in a white font inside a black circle.]
-Cueball: Our forecast says there's a 20% chance of rain for each of the next five hours.
-Cueball: How likely is it to rain this afternoon? It's a simple question, but I don't know the answer. Is each hour independent? Correlated? Or is rain guaranteed and we're just unsure of the timing?

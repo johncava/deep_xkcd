@@ -1,3 +1,0 @@
-[Euler diagram with two circles that don't intersect.]
-Green circle: Computer problems that make people say, "Maybe it has a virus?"
-Blue circle: Computer problems caused by viruses

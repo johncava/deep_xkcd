@@ -1,4 +1,0 @@
-[Bar Graph]
-Number of Google results for: "I _____ have kissed her" (or him)
-Shouldn't: 1,213
-Should: 10,230

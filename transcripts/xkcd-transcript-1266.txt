@@ -1,2 +1,0 @@
-[A short computer program.]
-The big picture solution to the halting problem.

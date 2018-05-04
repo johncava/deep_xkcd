@@ -1,7 +1,0 @@
-Google results for "<x> cups <y> girls"
-[There is a table with eight columns and eight rows. The cells are colored depending on the value in the cell.]
-[Above the tabel is the label for the columns:] 
-Cups 
-[To the left the label for the rows:]
-Girls
-[The number of cups and girls are not part of the cells in the table, but they have been included here below - also [Girls] is written only for clarity.]

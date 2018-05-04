@@ -1,8 +1,0 @@
-[A bar chart is shown below its title:]
-
-[The chart consist of a dividing line, with three labels to the left, and the three black bars to the right. The first two bars are short, the second slightly longer than the first. The last bar is much longer, about 13 time as long as the first shortest bar.]
-Strategy A
-Strategy B
-Analyzing whether strategy A or B is more efficient
-[Caption below the panel:]
-The reason I am so inefficient

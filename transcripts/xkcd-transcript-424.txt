@@ -1,6 +1,0 @@
-[Cueball sitting at computer.]
-Cueball: I'll just comment out these lines...
-
-
-
-In the rush to clean up the debian-openssl fiasco, a number of other major security holes have been uncovered:

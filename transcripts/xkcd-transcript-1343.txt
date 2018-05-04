@@ -1,4 +1,0 @@
-[A horizontal line has four points labeled on it, with the second point from the left marked with a dashed vertical line dividing the horizontal line into two parts.]
-[An arrow labeled "Solve problems" points left from the vertical line.]
-[An arrow labeled "Create problems" points right from the vertical line.]
-[The points are labeled, from left to right, "Tools that don't need a manual", "Tools that need a manual", "Tools that need a manual but don't have one", and "Tools whose manual starts with 'how to read this manual'".]

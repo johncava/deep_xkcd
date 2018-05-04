@@ -1,4 +1,0 @@
-Cueball: It took a lot of work, but this latest linux patch enables support for machines with 4,096 CPUs, up from the old limit of 1,024.
-Friend: Do you have support for smooth full-screen Flash video yet?
-Cueball: No, but who uses that?
-[Friend is holding a laptop.]

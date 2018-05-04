@@ -1,5 +1,0 @@
-[Browser download warning box containing the following text.]
-WARNING!
-This type of file can harm your computer! Are you sure you want to download:
-
-[Cancel and Save buttons (Save button disabled)]

@@ -1,4 +1,0 @@
-[A z = fn(x, y) plot, with pointy spikes on the back sloping to a relatively flat front.]
-You are like the prime numbers. Unpredictable turns, unconstrainable. Tantalizingly regular but never quite the same.
-I am like the Riemann-zeta function. A rippled curtain of the imagined and real. Deeply tied with you in ways incomprehensible.
-

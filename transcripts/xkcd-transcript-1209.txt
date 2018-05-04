@@ -1,5 +1,0 @@
-[Cueball and Megan are both holding walkie-talkies. Cueball is talking into his, Megan is holding hers down. Both are looking up in the sky.]
-Cueball: No, the combining diacritics go  the interrobang!
-Megan: Oh jeez, I think he's lost control.
-[Caption below the panel:]
-The skywriter we hired has terrible Unicode support.

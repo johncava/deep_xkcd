@@ -1,4 +1,0 @@
-[A flowchart with one starting bubble at the top. Two arrows goes left and right below this bobble to two other bobbles.]
-Top: "This seems to be taking longer than usual-"
-Left: "-Try reloading Gmail if the problem persists."
-Right: "-Maybe we should just go to bed."

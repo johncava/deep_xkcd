@@ -1,8 +1,0 @@
-[Cueball is telling a story to a Computer Scientist who is seated at his desk.]
-Cueball: Alice sends a message to Bob saying to meet her somewhere.
-Computer Scientist: Uh huh.
-Cueball: But Eve sees it, too, and goes to the place.
-Computer Scientist: With you so far.
-Cueball: Bob is delayed, and Alice and Eve meet.
-Computer Scientist: Yeah?
-CAPTION: I've discovered a way to get computer scientists to listen to any boring story.
