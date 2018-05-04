@@ -1,0 +1,11 @@
+[Zoom out with Cueball and Ponytail walking to the right on the ground.]
+Cueball: The Meltdown and Spectre exploits use "speculative execution?" What's that?
+Ponytail: You know the trolley problem? Well, for a while now, CPUs have basically been sending trolleys down  paths, quantum-style, while awaiting your choice. Then the unneeded "phantom" trolley disappears.
+[Zoom in on only Ponytail who has turned towards Cueball off-panel left.]
+Ponytail: The phantom trolley isn't supposed to touch anyone. But it turns out you can still use it to do stuff.
+Ponytail: And it can drive through walls.
+[Cueball and Ponytail, lifting both her palms up, are standing, facing each other.]
+Cueball: That sounds bad.
+Ponytail: Honestly, I've been assuming we were doomed ever since I learned about Rowhammer.
+[In a frame-less panel they continue talking, both with their arms down.]
+Cueball: What's ?

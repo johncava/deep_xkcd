@@ -1,0 +1,20 @@
+[A venn diagram.]
+[The left circle is labeled "Things on the front page of a university website" and contains:]
+"campus photo slideshow"
+"alumni in the news"
+"promotions for campus events"
+"press releases"
+"statement of the school's philosophy"
+"letter from the president"
+"virtual tour"
+[The right circle is labeled "Things people go to the site looking for" and contains:]
+"list of faculty phone numbers and emails"
+"campus address"
+"application forms"
+"academic calendar"
+"campus police phone number"
+"department course lists"
+"parking information"
+"usable campus map"
+[The only item in the overlapping section is:]
+"full name of school"

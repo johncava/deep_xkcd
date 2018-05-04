@@ -1,0 +1,14 @@
+[The title of the comic is also written in a large font in the center of the comic. Above and then to the left and right are six boxes, each box having a caption in bold font. The weak boxes begin above and to the left of the title. And then moves down and left. The strong does the same but to the right. Starting with the title, and then taking each row from top to bottom, left to right:]
+
+
+Every odd number greater than 5 is the sum of three primes
+
+Every even number greater than 2 is the sum of two primes
+
+Every number greater than 7 is the sum of two other numbers
+
+Every odd number is prime
+
+Numbers just 
+
+There are no numbers above 7

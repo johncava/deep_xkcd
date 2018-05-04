@@ -1,0 +1,8 @@
+Firstly, humans use size, edge-assignment, movement, and stereoscopic vision when looking at a scene (not a picture of a thing, but of the thing itself) to discern individual objects and then categorize them as foreground or background. A photograph, however, is a static, monoscopic image that can only provide size and edge-assignment clues. Humans are only able to discern objects from background in photographs by comparing the photo against all of the things they've seen and everything they've learned about those things over the course of their life and identifying matching patterns. 
+Secondly, the quality of the photograph will have an impact on a computer's ability to match patterns. For example, the object in the photograph might be partially visible or occluded. In the case of a living bird, additional complications arise from the variations among individual birds of the same species and differences in pose (flying, perching in a tree, etc.). Differentiating between visually similar objects can result in false positives. For example, is it a photo of a bird in flight or a plane (or superman!)? Ponytail's estimate of 5 years may be overly optimistic (see ).
+[Ponytail sitting at a computer with Cueball standing behind her.]
+Cueball: When a user takes a photo, the app should check whether they're in a national park...
+Ponytail: Sure, easy GIS lookup. Gimme a few hours.
+Cueball: ...and check whether the photo is of a bird.
+Ponytail: I'll need a research team and five years.
+In CS, it can be hard to explain the difference between the easy and the virtually impossible.

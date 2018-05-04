@@ -1,0 +1,4 @@
+[An open wardrobe, with a boat anchor attached to one corner, falling towards water.]
+Q = A * sqrt(2 * g * d)
+Q = flow rate
+A = area of opening

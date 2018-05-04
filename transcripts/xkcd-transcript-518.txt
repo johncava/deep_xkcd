@@ -1,0 +1,31 @@
+[A flow chart is shown beneath a caption. There are 14 boxes five diamond shaped and the rest rectangular. From all the diamond boxes there are one arrow entering and two arrows leaving (with yes/no labels on them). One of the other boxes is the start with only one arrow leaving, and three of these boxes are endings with only one arrow entering. Three has two arrows entering and one leaving. And two have one in and one out. Caption:]
+A guide to 
+
+presented in flow chart form.
+Box 0: Start
+
+Box 1: Do you understand flow charts?
+
+Box 2: Good
+
+Box 3: Let's go drink.
+
+Box 4: Okay. You see the line labeled "Yes"?
+
+Box 5: But you see the ones labeled "No".
+
+End-Box 1: Wait, what?
+
+End-Box 2a: Listen.
+
+End-Box 2b: I hate you.
+
+Box 6: ...and you can see the ones labeled "No"?
+
+Box 7: But you just followed them twice!
+
+Box 8a: (That wasn't a question.)
+
+Box 8b: Screw it.
+
+Final Box: Hey I should try installing FreeBSD!

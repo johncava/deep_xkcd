@@ -1,0 +1,4 @@
+
+Each date's size represents how often it is referred to by name (e.g. "October 17th") in English-language books since 2000
+(Source: Google ngrams corpus)
+[A regular Gregorian calendar laid out in a grid, Sunday first, on a leap year, with some numbers larger than others.]

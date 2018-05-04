@@ -1,0 +1,5 @@
+[Caption at the top of the panel:]
+Bad map projection #107:
+
+A political map compressed using Photoshop's content-aware resizing algorithm to cut down on unused blank space
+[Below the caption there is a map of the world divided and colored by political boundaries, with outlines around each continent in black and around each country in dark gray. Antarctica is colored in light gray, bodies of water in white, and countries in pale shades of red, orange, yellow, green, blue, and purple. The map is heavily distorted, with Africa in the center and the other continents curving around it, approximating the bounds of a square with rounded corners. The oceans have been removed but also huge countries like the US, Australia, Brazil, Russia and especially India and Argentina have been heavily distorted while areas in the center with many smaller countries like Africa and Europe is almost unchanged.]

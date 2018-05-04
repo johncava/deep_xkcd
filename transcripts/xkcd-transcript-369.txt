@@ -1,0 +1,13 @@
+Dangers
+Indexed by the number of Google results for
+"Died in a _____ Accident"
+[A bar chart showing "Type of Accident" vs "Google Results" each with a bar representing a number]
+Skydiving: 710
+Elevator: 575
+Surfing: 496
+Skateboarding: 473
+Camping: 166
+Gardening: 100
+Ice Skating: 94
+Knitting: 7
+Blogging: 2

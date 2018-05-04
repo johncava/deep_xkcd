@@ -1,0 +1,18 @@
+Regex golf:
+[Megan is sitting at a laptop. Cueball is standing behind her.]
+Megan: You try to match one group but not the other.
+Megan: /m | [tn]|b/ matches  subtitles but not .
+Cueball: Cool.
+Meta-regex golf:
+[A close-up of Megan at her laptop.]
+Megan: So I wrote a program that plays regex golf with arbitrary lists...
+Cueball (offscreen): Uh oh...
+Meta-meta-regex golf:
+[Megan typing at her laptop.]
+Megan: ...But I lost my code, so I'm grepping for files that look like regex golf solvers.
+[Cueball facepalming.]
+...And beyond:
+[Another closeup of Megan at her laptop.]
+Megan: Really, this is all /(meta-)*regex golf/.
+Cueball: Now you have  problems.
+Megan: No, I had those already.

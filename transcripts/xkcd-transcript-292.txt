@@ -1,0 +1,7 @@
+[Sideways view of Cueball sits at computer, thinking.]
+Cueball: I could restructure the program's flow - or use one little 'GOTO' instead.
+Cueball: Eh, screw good practice. How bad can it be?
+Text on computer: 
+*Compile*
+[We now have a view from behind Cueball. Cueball looks at the computer.]
+[A raptor jumps into the panel, pushing Cueball off his chair.]

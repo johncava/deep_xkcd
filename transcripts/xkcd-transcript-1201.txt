@@ -1,0 +1,11 @@
+A Guide to
+Integration by Parts:
+Given a problem of the form:
+
+Choose variables u and v such that
+
+Now the expression becomes:
+
+Which  looks easier.
+Anyway, I gotta run.
+But good luck!

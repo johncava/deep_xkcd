@@ -1,0 +1,3 @@
+[Heading above the table:]
+Online Reviews of Laser Products
+[A three by three table with one word to the far left, from which three lines split out and goes to three words just left of each of the three rows. Above each column is three other words. Below in the table are nine reviews with star rating on a five star scale. The actual rating is indicated with black stars and also use half filled stars in the rating system. The ratings are written in the table in square brackets.]

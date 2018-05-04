@@ -1,0 +1,5 @@
+[Black Hat and Cueball are sitting back to back at two separate desks, typing.]
+Cueball: Man, you're being inconsistent with your array indices. Some are from one, some are from zero.
+Black Hat: Different tasks call for different conventions. To quote Stanford algorithm's expert Donald Knuth, "Who are you? How did you get in my house?"
+Cueball: Wait, what?
+Black Hat: Well, that's what he said when I asked him about it.

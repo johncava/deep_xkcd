@@ -1,0 +1,15 @@
+Strategies for full-width justification
+[Below the caption is a column with six boxes, each showing a different "strategy" for justification which is annotated beside it. Here the annotation is written at the top and the text below. The top and bottom of the text is cut of in the middle, but as it can be "read" this is written anyway. Only for hyphenation does an extra word appear at the end. In the last with snakes, a snake is drawn to cover the entire space from the end of between to the right border.]
+Giving up
+
+Letter spacing
+
+Hyphenation
+
+Stretching
+
+Filler
+
+Snakes
+
+

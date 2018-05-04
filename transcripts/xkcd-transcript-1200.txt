@@ -1,0 +1,2 @@
+[Diagram showing several connected rooms. One in the center says "User account on my laptop," surrounded by "Dropbox," "Photos & files," "Facebook," "Gmail," "PayPal," and "Bank," which are connected to the middle room and to each other. Below the middle room is one labeled "Admin account," which is covered in spikes, and has a door to the room above it.]
+If someone steals my laptop while I'm logged in, they can read my email, take my money, and impersonate me to my friends, but at least they can't install drivers without my permission.

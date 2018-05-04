@@ -1,0 +1,4 @@
+[Four people sit around a table.]
+Megan: Your party enters the tavern.
+Cueball: I gather everyone around a table. I have the elves start whittling dice and get out some parchment for character sheets.
+Megan: Hey, no recursing.

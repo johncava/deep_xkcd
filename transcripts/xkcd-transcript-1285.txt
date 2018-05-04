@@ -1,0 +1,4 @@
+[To the left a group with three Cueballs, a Ponytail and Megan at the front which face another group with two Cueballs, a Ponytail and a black haired ponytail at the front. Each group has a placard. A Cueball in the left group has a cutlass and a Cueball in the right group has a spear as they are angrily facing off against each other. Off to the far right side stands a lone Cueball also with a placard.]
+Left placard:  spaces after a period
+Middle placard:  space after a period
+Right placard: Line break after every sentence

@@ -1,0 +1,18 @@
+[Two people are standing facing each other, having a conversation. One is holding a laptop.]
+Cueball (with laptop): What's the deal with this leukemia trial? {{Citation: Nejm, Aug 10, 2011}}
+Friend: Gotta wait and see.
+Friend: Helping the immune system attack tumors has been a longtime research target.
+Friend: Lots of promising leads. Often they don't pan out.
+Cueball: What'd these guys do?
+Friend: They took some of the patient's T-cells and patched their genes so they'd attack the cancer. That hasn't been enough in the past but their patch also added code to get the T-cells to replicate wildly and persist in the body.
+Cueball: Which worked, but created its own set of problems?
+Friend: How'd you guess? But I think the craziest part is the way they insert the patched genes.
+Cueball: How?
+Friend: Well, think - What specializes in invading and modifying T-cells?
+Cueball: Seriously?
+Friend: Yup. Must've been a fun conversation.
+[The last panel is set in a doctors office. A patient is sitting on the observation bed talking to their doctor.]
+Patient: Ok, so I have blood cells growing out of control, so you're going to give me different blood cells that  grow out of control?
+Doctor: Yes, but it's ok, because we've treated  blood with HIV!
+Patient: Are you sure you're a doctor?
+Doctor: Almost definitely.

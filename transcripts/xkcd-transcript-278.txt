@@ -1,0 +1,11 @@
+[Black Hat is sitting at his computer, wearing a phone headset.]
+Black Hat: Thank you for calling the Black Hat Support Line, your first source for Linux support. How may I assist?
+Phone: Hi. I'm running an Apache server, and the load keeps climbing out of control.
+Black Hat: Okay. First, click on the Start Menu.
+Phone: I'm sorry, this is the  helpline, right?
+Black Hat: Of course, sir.
+Black Hat: If you'll just open the "My Documents" folder-
+Phone: Just a damn minute. I think you're putting me on.
+Black Hat: Please bear with me, sir.
+Black Hat: Now, load up your AOL and go to the Keyword "Linux"-
+Phone: *click*

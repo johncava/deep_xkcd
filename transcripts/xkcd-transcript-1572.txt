@@ -1,0 +1,13 @@
+[A simple comic with text only. The  part is inside a black frame.]
+Introducing 
+
+A search for weird correlations
+Note: This survey is anonymous, but
+
+so people can play with the data.
+
+
+Or click here, or here.
+The whole comic is a link,
+because I still haven't gotten
+the hang of HTML imagemaps.

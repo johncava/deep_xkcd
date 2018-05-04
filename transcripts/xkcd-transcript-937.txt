@@ -1,0 +1,10 @@
+[The comic is a single panel which resembles a reviews page for a mobile phone application. Next to the app title is a pictogram of a tornado touching the ground]
+----App store----
+TornadoGuard
+From DroidCoder2187
+-----------------
+Plays a loud alert sound 
+when there is a tornado 
+warning for your area.
+-----------------
+Rating: 

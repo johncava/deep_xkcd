@@ -1,0 +1,23 @@
+[Caption:]
+Twitter is great for watching 
+uninformed panics unfold live.
+[The comic shows a twitter search results page with "Swine flu" in the search box and a gray search button.]
+twitter [Swine flu] (search)
+[The results is displayed in a frame below the search panel:]
+Realtime results for  0.05
+[This next line is highlighted in yellow. Most text here and below is written in normal black font, but the underlined links in the main text is in blue. Below each tweet is a line with info and reply links etc. all in gray font. Between the yellow line and the first tweet and between each tweet is a dotted line.]
+1,918 more results since you started searching.  to see.
+: Oh god I ate pork yesterday before I knew about swine flu!
+
+: Without duct tape I can't seal the door to keep out swine flu but I can't get duct tape without going outside! Help!
+
+: How long until the swine flu reaches me here in Madagascar?
+
+: Swine flu is God's punishment for the ACLU and lesbians and 9/11 and nanobots!
+
+: I fell down the stairs and there was a crack and a jagged white thing is sticking out of my arm guys is this swine flu?
+
+: : No, that sounds like syphilis, not swine flu. What did you say you did with a pig?
+
+: My Dad said flu vaccines are linked to autism, so to be safe from swine flu I'm trying to lick an autistic kid.
+

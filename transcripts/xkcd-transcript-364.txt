@@ -1,0 +1,12 @@
+[Cueball on phone.]
+Voice: Hey, I just got home from the party
+Cueball: The one with the IRC folks?
+Voice: Yeah.
+Cueball: How was it?
+Voice: Got too drunk. I screwed up, bad.
+Cueball: What happened?
+Voice: There was a girl. No idea who she was. Don't even know her name. I was too drunk to care.
+Cueball: And what, you slept with her?
+Voice: No.
+Voice: I signed her public key.
+Cueball: Shit, man.

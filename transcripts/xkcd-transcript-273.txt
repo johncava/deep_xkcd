@@ -1,0 +1,7 @@
+[Everything is one big panel.]
+The Electromagnetic Spectrum
+These waves travel through the electromagnetic field. They were formerly carried by the aether, which was decommissioned in 1897 due to budget cuts.
+Other waves:
+
+[Three parallel scales are across the bottom. The first is lambda (m), ranging from 100Mm to 100fm; second is f (Hz), which starts at 1 Hz and reaches 100 THz about 2/3 of the way along, after which the labels read "other entertaining greek prefixes like peta- exa- and zappa-;" last is Q (Gal^2/Coloumb), whose labels are 17, 117, pi, 17, 42, phi, e^pi-pi, -2, 540^50, and 11^2. Above the scales and lined up accurately with the first two are the following:]
+

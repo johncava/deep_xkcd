@@ -1,0 +1,14 @@
+What does xkcd mean?
+[Two cars sitting at a red light at a multi-lane intersection; one of them makes a right turn, then shifts over to the left lane and makes a U-turn across the dividing line to go back the way it came. It then shifts back to the right lane and makes another right turn, continuing down the road past the traffic light. This is shown with a red arrow.]
+It means saving a few seconds at a long red light via elaborate and questionably legal maneuvers.
+[In an inset circle in the panel, someone is on a cell phone. In the panel itself, a second person is looking at a dog.]
+It means having someone call your cell phone to figure out where it is.
+Dog's stomach: 
+[The mathematical function "A(g, g)=" appears in the panel. Next to the equal sign stands a mathematician, clutching his head.]
+It means calling the Ackermann function with Graham's number as the arguments just to horrify mathematicians.
+Mathematician: 
+[An approximately 8 by 8 square of floor tiles is shown; the first, fourth, and seventh across in the first, fourth, and seventh rows are black, and the rest are white. A guy and girl are shown next to it, walking on what is presumed to be the same pattern of floor tiles.]
+It means instinctively constructing rules for which floor tiles it's okay to step on and then walking funny ever after.
+[Line indicating the uppermost right black tile: Black tiles okay.]
+[Line indicating tile directly below it: White tiles directly between black tiles okay.]
+[Line indicating a white tile in the last column over: Not okay.]

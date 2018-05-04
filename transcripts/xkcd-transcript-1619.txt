@@ -1,0 +1,2 @@
+Heading: A guide to the medical diagnostic and treatment system used by IBM's  system
+[A flowchart with the following steps is shown, starting from "start":]

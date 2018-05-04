@@ -1,0 +1,19 @@
+[Heading above the chart:]
+The Problem with Wikipedia:
+[Text in a frame below the heading:]
+Tacoma Narrows Bridge
+[Lines lead down both left and right to two new frames with the following text:] 
+Suspension bridge 
+Structural collapse
+[Two more lines lead down from the left frame and one from the right frame, and each line ends on a wiggling line. Below this line in square brackets is the following text:]
+Three hours of 
+fascinated clicking
+[Below this there is a similar wiggling line, from where six lines leads to new frames. From the fourth frame, there follows yet another line to yet another frame. And from the last frame the same happens twice. Below text in frames from left to right, with extra text below indicated by indentation of the text:]
+William Howard Taft
+24-hour analog dial
+Lesbianism in erotica
+Batman
+
+Taylor Hanson
+Cotton
+

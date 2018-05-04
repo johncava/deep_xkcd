@@ -1,0 +1,5 @@
+[Open fridge with four conveyor belts, three in the main compartment and one on the door. There are two more containers on the door, and an ice-box underneath the second conveyor belt in the main compartment. There is a bin at the bottom of the fridge where the conveyor belts all lead to labelled "Bad."]
+: 3 days ^ 2 days ^ 24 hours ^ 12 hours ^
+: 1 W ^ 5 days ^ 3 days ^ 2 days ^ 1 day ^
+: 3 M ^ 2 months ^ 1 month ^ 2 weeks ^
+: 3 days ^ 1 week ^ 2 weeks ^

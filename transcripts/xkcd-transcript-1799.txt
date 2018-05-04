@@ -1,0 +1,22 @@
+Bad map projection #79:
+
+Where each country  be,
+based on its time zone()
+[A world map is shown divided and colored by political boundaries. There are many distortions, and especially Russia looks weird. Many countries have their name listed in a gray font and at the bottom below Australia there are two specialties mentioned for time zones which are not divided in full hours. One of these is a footnote used by other countries as well.]
+[The labels are listed here in order of the "continents" as they come from top left to down right. Similarly within each continent's list the countries which are usually said to belong to a given continent (at least politically or partially, e.g. Greenland and Turkey in Europe) are listed in a similar reading order as accurately as possible.]
+[North America. (Newfoundland, the most easterly part of Canada, is labeled with a star *):]
+
+[South America:]
+
+[Europe. (Russia is as the only country mentioned twice, the other place is over the central part in the Asia section):]
+
+[Africa:]
+
+[Asia. (Russia is the only country mentioned twice, the other label is within the European border. The text written over Bhutan is unreadable in the image and marked with a question mark in this list):]
+
+[Oceania/Australia. (In Australia there is a star * in the middle of it above the name):]
+
+[Below Australia there is an arrow pointing to the south coast and below that a footnote for the stars * used above:]
+
+
+

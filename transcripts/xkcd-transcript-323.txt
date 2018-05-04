@@ -1,0 +1,3 @@
+[A graph with "programming skill" on the Y-axis and "blood alcohol concentration" on the X one. The Y-axis slowly goes down, but spikes at 0.1337%.]
+[Cueball is making a presentation with the graph.]
+Cueball: Called the Ballmer Peak, it was discovered by Microsoft in the 80's. The cause is unknown but somehow a B.A.C between 0.129% and 0.138% confers superhuman programming ability.

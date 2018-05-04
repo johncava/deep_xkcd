@@ -1,0 +1,7 @@
+[A signpost with three arrows.]
+[Arrow pointing up:]
+Space 62
+[Arrow pointing right:]
+Jackson 115
+[Arrow pointing left:]
+Memphis 98

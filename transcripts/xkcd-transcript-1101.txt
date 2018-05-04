@@ -1,0 +1,6 @@
+[A timeline style graph.]
+
+Arranged by how sketchy they make the sentence
+
+sketchy <--------> very sketchy
+party --- orgy --- dungeon --- palace --- house --- shrine --- room --- basement --- truck --- platform --- van --- area --- crate --- chute --- ravine --- tarp 

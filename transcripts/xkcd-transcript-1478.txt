@@ -1,0 +1,1 @@
+[A two-column table where the second column selects various areas of the first column using square brackets.]

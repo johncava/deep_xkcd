@@ -1,0 +1,43 @@
+
+over time
+[Below this heading there are three panels with charts showing different players career paths - that is their rating a function of the year. Most of the paths are grey, but some are red (there will be a note for these). Some parts of several paths are dashed. Somewhere on each path the players name will be written curving along so it follows the path. Several places an event or some information is noted and points to a given time on the path. If it is not clear where it belongs an arrow will point to the correct place. Each chart has a heading and for the two last charts there is an explanation. There is no scale on the y-axis (rating) but the x-axis (time) has the years given in ten years interval. A thin line indicates these decades. The years are all written at the top, except the first for the first chart, which is written below, and this year is missing in the bottom chart.]
+[Below the transcript for each chart will follow this order: Heading/sub heading, explanation, time scale, player names with any information for this player, in the order their name appear on the time scale.]
+[Basketball chart:]
+
+Player Efficiency Rating
+1950 1960 1970 1980 1990  2000 2010
+[Red] George Mikan
+[Red] Bob Pettit
+Neal Johnston [Neil misspelled.]
+Elgin Baylor
+[Red]  Wilt Chamberlain
+
+Jerry West
+
+[Red] Kareem Abdul Jabbar [Missing hyphen between the two last names.]
+
+Bob Mcadoo
+Julius Irving [Erving misspelled.]
+Moses Malone
+Magic Johnson
+
+[Red] Michael Jordan
+
+Larry Bird
+Karl Malone
+David Robinson
+[Red] Shaquille O'Neal
+Kevin Gariett
+[Red] LeBron James
+
+Dwyane Wade
+Kevin Durant
+[Chess chart.]
+
+Elo Rating
+The modern Elo rating system dates back to about 1970.
+Computer analysis (like Kenneth Regan's) lets us rate historical players, but this has only been done rigorously for a few tournaments.
+Dashed lines are rough estimates only.
+[All paths are dashed up until the late nineteen sixties:]
+1950 1960 1970 1980 1990  2000 2010
+[The first player has no path, as his time was before 1940. An arrow points toward the left to these earlier times:]

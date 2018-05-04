@@ -1,0 +1,4 @@
+a = lowercase letters
+A = uppercase letters
+9 = digits
+& = the 32 special characters in an American keyboard; Randall assumes only the 16 most common characters are used in practice (4 bits)

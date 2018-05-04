@@ -1,0 +1,10 @@
+[The panel shows the display of a Tetris game. A large oddly shaped piece is falling towards the board. The piece fits into the gaps exactly to complete six rows at once. The next piece is simply a very long brick. All the pieces at the bottom are made from possible tetris pieces.]
+Next
+Top 
+0002187
+Score 
+0002186
+Level
+5
+[Below the panel:]
+

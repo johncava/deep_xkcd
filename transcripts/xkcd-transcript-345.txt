@@ -1,0 +1,32 @@
+[The two men in black bowler hats (RIAA and MPAA agents as known from the previous comic) with their katanas are attacked by Elaine Robert with her folding knife and Richard Stallman with his own two katanas. Elaine kicks the RIAA man to the left in the back of his leg, while Stallman jumps over the MPAA man to the right, flying high over him from right to left in a flying maneuver hitting his sword while hanging parallel to the ground above the man.]
+Elaine: Thanks, Stallman!
+Richard Stallman: 'Tis my pleasure.
+[Elaine stands to the left with her knife in one hand having folded it down again. Richard Stallman stands between the two men with bowler hats who are now lying on the floor on either side of him each with one of Stallman's sword pointing at their throat. Stallman has both arms fulle stretched towards them as he looks straight out of the panel. The left (RIAA) man lies flat on his back his hat and katana sword lying behind him. The right (MPAA) man is sitting on his knee leaning as far back as he can, since the sword is almost touching his skin on his throat. He wears his hat, but the sword lies behind him, out of reach, even though he is leaning back on one hand close to it. To the far right a rope comes down from the top of the panel falling down on the ground so a section of it stretches even farther right in the picture. Down this rope comes a man with googles and a red cape, which is black on the inside. This is Cory Doctorow. He holds on to the rope with two hands one over one just under his head.]
+Elaine: So, wait - how did you know we were in trouble?
+Richard Stallman: My friend here was tracking these thugs from his balloon. 
+Richard Stallman: He called me and I thought I'd stop by.
+Cory Doctorow: -Hi! 
+Cory Doctorow: Cory Doctorow - It's a pleasure to meet you.
+[Elaine has shifted the knife to the other hand. Richard Stallman has moved to the left of the RIAA man, so both bowler hat men are between him and Cory Doctorow. Stallman still points his sword in their direction, but they are lowered. The RIAA man closest to him, has picked up his hat in one hand and reaches for his sword with the other hand. The MPAA man now lies on his back, one arm up leaning on the other. His sword is gone. It does not seem like Doctorow could have taken it. Behind him Doctorow has reached the ground, the rope hangs behind him. He points left.]
+Elaine: Balloon?
+Richard Stallman: Aye. They're up there constructing something called a "Blogosphere."
+Cory Doctorow: Yup! It's twenty kilometers up, just above the tag clouds.
+[The scene is contracted, so to the left Mrs. Roberts at her desk with her chair and laptop becomes visible (from the previous comic). This witout the other people have moved closer. She still types as her son Little Bobby Tables enters and lifts a hand in his mothers direction. He is drawn as a child version of Cueball. Elaine has put the knife away, and looks at Richard Stallman who now stand straight looking at her, with the swords crossed in front of his legs. Behind him just right of the rope hanging down, Cory Doctorow lifts one of the agents up by the throat while looking right and talking to him. The other agent has left the panel. The one he holds has his hat but no sword.]
+Little Bobby Tables: Mom, I'm hungry.
+Mrs. Roberts: Hush, I'm coding. You ate yesterday.
+Richard Stallman: You know, Roberts, GNU could use a good coder like you. Ever thought of joining us?
+Elaine: Maybe someday. Right now I've got an industry to take down. 
+Elaine: Music doesn't need these assholes.
+Cory Doctorow: Begone, And never darken our comment threads again!
+[Zoom in on Elaine, Richard Stallman and Cory Doctorow. She stand straight looking at Stallman who faces towards her swords now on his back crossed. Doctorow is also facing her and holds out both arms towards her. The rope is now outside the panel as are both bowler hat men.]
+Richard Stallman: Well, you won't fix the industry with random exploits. You need to encourage sharing in the public mind.
+Doctorow: Hey; With your music and coding backgrounds, you should get into building better P2P systems.
+[The final panel is only a third of the length of the previous panel. The three are still in the panel but they have moved and are also drawn somewhat smaller. Elaine still faces them right, but now Cory Doctorow is in front of Richard Stallman swords as before. All have their arms down.]
+Elaine: What? Straight-up piracy?
+Cory Doctorow: Sure - have you ever considered it? You'd make a wonderful dread pirate, Roberts.
+[To the right of the final panel is a two column epilogue narrated by Cueball as seen in part 2. It is split in three paragraphs and a "signature". The caption above is centered over the two columns]
+
+Cueball (narrating): Elaine shared her ideas with Bram Cohen, who went on to develop BitTorrent.
+ Mrs. Roberts spends her time developing for Ubuntu, and defacing the websites of people who make "your mom" jokes to her daughter. 
+ Elaine still stalks the net. She joins communities, contributes code or comments, and moves on. And if, late at night, you point a streaming audio player at the right IP at the right time - you can hear her rock out.
+ ~Happy Hacking.~

@@ -1,0 +1,4 @@
+[There is a two-circle Venn diagram; the circles are labeled and there is text in the intersection.]
+Left circle: Geeks
+Right circle: Nerds
+Intersection: People with strong opinions on the distinction between geeks and nerds

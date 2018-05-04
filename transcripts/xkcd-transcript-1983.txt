@@ -1,0 +1,8 @@
+[There is a panel containing a line graph. The x- and y-axes are labeled "time" and "amount of stuff in my house" respectively.]
+[The y-value generally increases straight-line as x increases. There are a few labeled exceptions where the y-value decreases slightly but instantly increases again. From left to right:]
+"I need to clean up."
+"I've really let junk build up. Feels good to clear it out."
+"I hate moving, but at least it's a chance to finally get rid of all this excess stuff."
+"Ah, spring cleaning!"
+[Caption below the panel:]
+I'm starting to worry about my strategy for dealing with clutter.

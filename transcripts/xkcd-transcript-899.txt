@@ -1,0 +1,3 @@
+[Number line ranging from -1 to 10.]
+[Arrow pointing left, towards negative numbers] Negative "imitator" numbers (do not use)
+[Line right before the number one] 0.99... (actually 0.0000000372 less than 1)

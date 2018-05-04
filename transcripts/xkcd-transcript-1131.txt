@@ -1,0 +1,6 @@
+[A frame with a bar chart showing 58% blue and 42% red. A header shows a range between 53-63%]
+Forecast
+[An arrow below the chart is pointing at the line between the blue and the red sections of the chart with a heading]
+Result
+[Below the frame is a caption]
+ To surprise of pundits, numbers continue to be best system for determining which of two things is larger.

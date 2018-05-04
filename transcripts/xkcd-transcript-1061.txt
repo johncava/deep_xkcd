@@ -1,0 +1,15 @@
+[Caption and text above the main panel:]
+xkcd presents
+
+(EST)
+A universal calendar for a universal planet
+
+
+
+
+
+[A list of the details concerning EST:]
+
+
+For 4 hours after every full moon, run clocks backward.
+The non-prime-numbered minutes of the first full non-reversed hour after a solstice or equinox happen twice.

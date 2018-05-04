@@ -1,0 +1,9 @@
+[Three people sit along a table with dishes and drinks in front of them. Cueball is walking in, a plate with food on it in one hand, a laptop in the other.]
+[Person 1 looks down at their bowl. They have a cup with what appears to be a lump of coal in it.]
+Person 1: I've got... Cheerios with a shot of vermouth.
+[Person 2 has a plate with some kind of cubic food on it. They have a cup of what appears to be two lovebirds in it.]
+Person 2: At least it's better than the quail eggs in whipped cream and MSG from last time.
+[Person 3 has a plate with a several lumps of some form of white stuff on it. They have a cup of what appears to be some kind of superfluid flowing out of it.]
+Person 3: Are these Skittles ?
+Cueball: C'mon, guys, be patient. In a few hundred more meals, the genetic algorithm should catch up to existing recipes and start to optimize.
+We've decided to drop the CS department from our weekly dinner party hosting rotation.

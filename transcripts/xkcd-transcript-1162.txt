@@ -1,0 +1,4 @@
+[A bar chart showing fuel energy density of different materials in megajoules/kg.]
+Sugar: 19, Coal: 24, Fat: 39, Gasoline: 46, Uranium 76,000,000
+[The uranium bar on the chart goes off the page onto a huge strip of paper folded up into a stack slightly taller than Cueball.]
+Science Tip: Log scales are for quitters who can't find enough paper to make their point .

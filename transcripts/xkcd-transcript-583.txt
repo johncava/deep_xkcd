@@ -1,0 +1,15 @@
+[Megan is sitting at a computer.]
+Computer: Speech2Text Commander
+Computer: Bug #167801
+Computer: Speech recognition fails on young child voices.
+Megan: Hmm.
+[The view enlarges to show a man sitting at another desk.]
+Megan: Hey, can you do me without a condom? We need a young child for something.
+Cueball: Okay.
+[A pregnancy test is displayed. The label indicates not pregnant.]
+Pregnant
+Not pregnant
+[Megan is typing on the computer.]
+Megan typing: Bug #167801
+Megan typing: Status: Closed
+Megan typing: Reason: Could not reproduce.

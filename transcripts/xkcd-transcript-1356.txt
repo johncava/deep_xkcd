@@ -1,0 +1,6 @@
+How Well I Understand Orbital Mechanics:
+[There is a graph with the x-axis labeled as 'time' increasing to the right. The y-axis is unlabeled but it can be assumed that it could be labeled 'understanding'.]
+The line stays flat until the first bump, which is annotated "Took High School Physics".
+The line decreases, then grows to a higher maximum with the annotation "Got Physics Degree".
+There is a small amount of decrease until a gradual bump in the graph labeled "Actual Job At NASA".
+It gradually decreases to pre-NASA levels, but then begins to increase exponentially. The annotation reads "Started Playing Kerbal Space Program".

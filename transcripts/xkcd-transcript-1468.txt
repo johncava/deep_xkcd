@@ -1,0 +1,20 @@
+
+[A chart with a scatter plot on which 9 dots are labeled. Each axis have a title and a scale. Reading from the top to the bottom and then left to right along the axis are:]
+Very worried
+
+Not very worried
+Not very worried
+
+Very worried
+[The labels in the chart from the top:]
+[This first entry is standing in the middle of a square bracket that points to the two next entires both of which are at the same level:]
+Chest wound
+...on your right side
+...on your left side
+Getting knocked out by a punch
+"We need to talk."
+Persistent cough
+Parking ticket
+Breaking news
+Spilling a drink on your shirt
+Nosebleed

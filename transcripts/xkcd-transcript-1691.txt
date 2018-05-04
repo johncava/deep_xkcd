@@ -1,0 +1,8 @@
+[A flow chart is shown with three boxes connected with two arrows. The first box is rectangular:]
+Are you  or just 
+[From the first box there is a short arrow straight down to a diamond shaped box:]
+Are you consulting a flowchart to answer this question?
+[A labeled arrow continues down.]
+Yes
+[The arrow connects to the final rectangular box.]
+You are prematurely optimizing

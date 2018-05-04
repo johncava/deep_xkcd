@@ -1,0 +1,3 @@
+
+(Found using a mix of trial-and-error, , and Robert Munafo's  tool.)
+ All units are SI MKS unless otherwise noted.

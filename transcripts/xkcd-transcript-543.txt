@@ -1,0 +1,3 @@
+[Shows an adaptation of the Sierpinski triangle fractal, using hearts instead of triangles.]
+Happy valentine's day.
+

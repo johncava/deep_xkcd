@@ -1,0 +1,16 @@
+[A chart consisting of a line with double arrows that has 12 dots progressing from left to right. Each dot has a line going to a label above or below the line. Above the labels is another label belonging to an arrow to its right that points right. Above this is a larger caption:]
+
+More worried --->
+[chart shows the following titles left to right (least to most worrisome), some above and some below the line however that doesn't affect their relative positions.  They are listed here in ascending worrisomeness for ease of viewing]
+Archeologist
+Economist
+Nutritionist
+Criminologist
+Ornithologist
+Botanist
+Marine biologist
+Entomologist
+Astronomer
+Virologist
+Vulcanologist
+Astronomer who studies the sun

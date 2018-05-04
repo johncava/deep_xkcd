@@ -1,0 +1,3 @@
+Cueball: Staring at the ceiling, she asked me what I was thinking about.
+Cueball: I should have made something up.
+Cueball: The Bellman-Ford algorithm makes terrible pillow talk.

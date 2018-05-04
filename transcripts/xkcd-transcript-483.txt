@@ -1,0 +1,5 @@
+[Line graph shown with an inverse curve.]
+[Y-Axis: Probability book is good.]
+[X-Axis: Number of words made up by author.]
+[The curve becomes less steep as the number of words increase.]
+"The Elders, or  guarded the  (children) with their  which are like swords but ..."

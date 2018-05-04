@@ -1,0 +1,3 @@
+[A silhouette identification guide chart shows eight silhouettes in two rows. The silhouettes are a combination of the fuselage of an aircraft and the wings of birds, or in the second case an insect. Below each silhouette is a label:]
+Osprey  Hornet  Falcon  Harrier
+Eagle  Kestrel  Hawk  Blackbird

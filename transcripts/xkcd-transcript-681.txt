@@ -1,0 +1,5 @@
+depth = (G * Planet-mass ) / (9.81 m/s * Planet-radius)
+
+
+Gravity Wells scaled to Earth surface gravity
+This chart shows the "depth" of various solar system gravity wells.

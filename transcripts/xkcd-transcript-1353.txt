@@ -1,0 +1,10 @@
+Megan: Heartbleed must be the worst web security lapse ever.
+Cueball: Worst so far. Give us time.
+Megan: I mean, this bug isn't just broken encryption.
+Megan: It lets website visitors make a server dispense random memory contents.
+Megan: It's not just keys. It's traffic data. Emails. Passwords. Erotic fanfiction.
+Cueball: Is  compromised?
+Megan: Well, the attack is limited to data stored in computer memory.
+Cueball: So paper is safe. And clay tablets.
+Megan: Our imaginations, too.
+Cueball: See, we'll be fine.

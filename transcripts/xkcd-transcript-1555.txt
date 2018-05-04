@@ -1,0 +1,9 @@
+[Black Hat points with a stick at a slide showing an image of a planet with unknown features marked by questions marks.]
+Kepler-452b
+Black Hat: NASA has announced the discovery of a (super-)Earth-sized planet in the habitable zone of a sun-like star.
+Black Hat: I suggest we name this planet "Pluto", both to celebrate the great work by the  team, and to make the stupid "Is Pluto a planet" debate a little more confusing
+While we wait to hear from the IAU,
+here's a revised and updated list of
+planet name suggestions (see xkcd.com/1253)
+
+[The table is in three separate columns. There is a small arrow pointing at the second column, named "Planet", indicating the planet's name corresponding to the star at the first row. The third column shows the planet name suggestions.]

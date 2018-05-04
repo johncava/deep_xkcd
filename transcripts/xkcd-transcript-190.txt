@@ -1,0 +1,5 @@
+[Black Hat sits at a computer. Cueball stands behind him.]
+Black Hat: You see, statisticians communicate using IPoD -- IP over Demographics. For example, the header of the next packet I send will be encoded into the New Jersey death rate.
+Cueball: So you're going to hack the census bureau and change the number of reported deaths?
+Black Hat: Guess again.
+Black Hat: Hey, have you seen my crossbow?

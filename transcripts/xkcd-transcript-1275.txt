@@ -1,0 +1,2 @@
+volume(r) = (4/int(pi))*pi*r^int(pi)
+Programming Tip: The number "3" is cursed. Avoid it.

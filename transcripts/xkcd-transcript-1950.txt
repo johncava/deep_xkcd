@@ -1,0 +1,6 @@
+[The first panel shows graph with only the x-axis labeled and with seven labeled ticks. The y-axis has three ticks with percentage labels. A red line rises from bottom to top as it goes from left to right. There is an arrow pointing at the graph with a label. Above the left part of the red line there is a title and beneath that a reference to the source of the data in gray font:] 
+Fraction of kids your age who got chicken pox
+
+100%
+50%
+0%

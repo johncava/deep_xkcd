@@ -1,0 +1,3 @@
+Voltage = Current x Resistance (V=IR)
+Power = Current x Voltage (P=VI - )
+which, by replacing "Voltage" with "(Current x Resistance)" (from Ohm's law):

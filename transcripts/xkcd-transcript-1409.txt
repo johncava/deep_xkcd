@@ -1,0 +1,8 @@
+[The first and then every second part of the comic is drawn without any frames around the panels. They depict Megan with the device she finds. In the first and last of these there are more than one "panel" where Megan is drawn more than once without frames between. In between these frameless panels, in all even numbered rows, are a framed picture with an overview of the surroundings.]
+[The first two panels are drawn in the first row.]
+[Megan walks up to device lying on the ground.]
+[Megan picks up a device and looks a the screen. The screen is shown in black with white text and a white bar for her to enter text in.]
+Loaded table: People
+Enter query
+[Megan looks around and sees nine people nearby: A black haired girl with ponytail talking on he phone; a Cueball-like guy talking to a hairy guy; a group of three people, with Ponytail and another Cueball-like guy sitting, and a Megan-like girl lying on the ground; another hairy guy sitting with an ice cream cone on a big box; Another Ponytail girl leaning up against the box with her phone together with a third Cueball-like guy also with a phone in his hand. The device still shows the last part of the text in white on black, and with room to enter a query]
+Enter query

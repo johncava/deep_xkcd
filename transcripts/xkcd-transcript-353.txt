@@ -1,0 +1,12 @@
+[A Friend is talking to Cueball, who is floating in the sky.]
+Friend: You're flying! How?
+Cueball: Python!
+Cueball: I learned it last night! Everything is so simple!
+Cueball: Hello world is just 'print "Hello, World!"'
+Friend: I dunno... Dynamic typing? 
+Cueball: Come join us! Programming is fun again! It's a whole new world up here!
+Friend: But how are you flying?
+Cueball: I just typed 'import antigravity'
+Friend: That's it?
+Cueball: ...I also sampled everything in the medicine cabinet for comparison.
+Cueball: But I think this is the python.

@@ -1,0 +1,3 @@
+[A short list with a heading above a line and below that a list of seven years increasing with 5 years intervals. After each year are gray lines that leads to the name of an editor, except for the first two years, where there is a two row square bracket around the first entry;]
+
+--------------------

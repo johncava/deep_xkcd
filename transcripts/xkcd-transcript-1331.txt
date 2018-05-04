@@ -1,0 +1,1 @@
+[Repetitive events are written in grey and arranged in a grid. Each statement pulses to black and then returns to grey at an interval characteristic of the named event.]

@@ -1,0 +1,25 @@
+[Cueball is sitting at a desk using a laptop, his thoughts shown above in a thought bubble. A search query is shown in a frame to indicate what Cueball has searched for with the search button below in gray text:]
+Cueball (thinking): I want to make a Twitter bot. I bet it's not too hard.
+Query: How to write a Twitter bot
+
+[Cueball is now holding the laptop on his lap, a series of search queries are shown.]
+Query: Python Twitter library
+
+Query: Machine learning
+
+Query: Cloud hosting
+
+[Cueball has placed the laptop back on the desk.  More search queries are shown, each one more ominous than the previous.]
+Query: Bot troubleshooting
+
+Query: Locked out of EC2 instance
+
+Query: Bot changed own password?
+
+[Cueball is shown wearing a small backpack and typing on his smartphone while jogging to the right. various noises coming from left and right seem to imply that chaos has begun to erupt around him. The loudest noise is in a ragged frame to the left, coming from off-panel left, it is between the first and second query. Also between these but to the right are other sounds coming from off-panel right.]
+Query: How to fight a bot
+
+Noise off-panel left: 
+Noise off-panel right: 
+Query: Cheap flights Australia
+

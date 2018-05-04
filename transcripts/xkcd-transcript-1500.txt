@@ -1,0 +1,29 @@
+[Map of the world with all the landmasses rotated upside-down.]
+[Four oceans and all the visible continents have been named in large letters in a bold font. The Pacific has been named both to the left and right. Several islands (large and small) have been designated with name but in grey and in a much smaller normal font. For all continents the names are written on them. For the island the name is written in the ocean except for Greenland.]
+[Below the names on the map are given in the order they appear reading from left to right, first for the northern and then the southern hemisphere:]
+[Northern hemisphere:]
+
+Cuba
+Greenland
+
+Iceland
+UK
+
+Sri Lanka
+
+
+Taiwan
+Japan
+
+[Southern hemisphere:]
+
+
+Tierra del Fuego
+
+
+Madagascar
+Indonesia
+
+New Zealand
+[Below the main frame:]
+

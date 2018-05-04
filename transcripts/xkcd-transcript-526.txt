@@ -1,0 +1,4 @@
+Here both the SI unit m/s as well as the more commonly used unit kph (km/h) is given. Note that the SI prefers "km/h" over the non-standard abbreviation "kph".
+
+[There are five frames with tables for different units. Between the two upper frames is the following text:]
+The key to converting to metric is establishing 

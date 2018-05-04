@@ -1,0 +1,3 @@
+Hackers recently leaked  Adobe user emails, encrypted passwords, and password hints.
+Adobe encrypted the passwords improperly, misusing block-mode 3DES. The result is something wonderful:
+The greatest crossword puzzle in the history of the world

@@ -1,0 +1,7 @@
+[Diamond-shaped four-panel diagram with each panel labeled. Two arrows indicate axis up along the left and right lower side of the diamond:]
+[Left]: Political opinions
+[Right]: Love of diamond-shaped diagrams
+[Top panel]: Internet libertarians
+[Left panel]: Democrats, Republicans
+[Right panel]: Baseball fans
+[Bottom panel]: Other

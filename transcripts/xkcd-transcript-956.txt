@@ -1,0 +1,14 @@
+[Megan and Cueball hang out in front of a tree.]
+Megan: Whoa. What's this?
+Cueball: What's what?
+Megan: This tree has a USB port.
+Cueball: Try connecting to it, I guess.
+[Megan brings out a laptop and connects to it.]
+Megan: It's offering up a drive with one file on it.
+Cueball: What's the file?
+Megan: An eBook. "Shel_Silverstein_-_The_Giving_Tree.azw"
+Cueball: Never heard of it. Let's take a look!
+Laptop: DRM Error: You have not purchased rights to view this title. Lending is not enabled.
+Cueball: Huh. Oh well.
+Megan: Let's go see what Mike is up to.
+[The tree is alone.]

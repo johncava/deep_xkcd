@@ -1,0 +1,8 @@
+[Green Hat sitting at a computer.]
+Computer: Welcome to the missile launch interface!
+
+Computer: Enter the target's coordinates.
+
+Computer: Enter your email address for our records.
+
+Computer: Enter your email again, to ensure you typed it correctly.

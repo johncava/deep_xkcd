@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[The comic is a moving circle with a static outer ring.]
+[The outermost part of the static ring is divided in 22 segments representing the 24 hours of the day. The Noon (11 AM - 1 PM) and Midnight (11 PM - 1 AM) segments cover two hours which are not segmented. The ring is divided so it is yellow from 6 AM to 6 PM and dark grey on the other half.]
+
+[The innermost part of the static ring is light grey and divided in two sections that cower from 9 AM to 5 PM and from 10 PM to 8 AM respectively. They  contain descriptions of the time intervals.]
+
+[The rest of the image consist of a rotating part.]
+[On the innermost part of the circle is the Earth as seen from the south pole. Each continent has a different color. The colors are
+
+[Two segmented rings circle the map - these give the names of the continents (not the Antactica) and the color of the ring match the color of the continent on the map. Each segment cover the part of the map with the given continent. The one with Europe is merged with the one for Asia - and the color also merges from red to green along Turkey and Russia where the transition from Europe to Asia occurs.]
+[On the inner ring are the names of the following continents (white text on a segment with the color of the continent)]
+
+[On the second of these rings are the names of the following continents (white text on a segment with the color of the continent)]
+
+[On the outermost ring of the moving circle are written names of regions, countries and cities of the Earth over the part of the map in which time zone they belong. All the text is color coded to match the color of the continent they belong to as given on the central map. The text is written in four lines. Below the names are sorted by color and reading from left to right first - and only sorting top to bottom if needed.]
+[Europe - Red text:]
+
+[Africa - Cyan text:]
+
+[Asia - Green text:]
+
+[Oceania - Purple text:]
+
+[North America - Blue-violet text:]
+
+[South America - Olive green text:]
+
