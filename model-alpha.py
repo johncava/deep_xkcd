@@ -91,7 +91,7 @@ class Model(nn.Module):
 
 
 max_epoch = 2
-learning_rate = 1e-4
+learning_rate = 1e-1
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
@@ -117,7 +117,7 @@ for epoch in xrange(max_epoch):
         optimizer.step()
 
 print "Done"
-np.save("loss2.npy", loss_array)
+np.save("loss3.npy", loss_array)
 '''
 out = model(input_)
 for i in out:
