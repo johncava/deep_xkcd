@@ -58,6 +58,7 @@ class Model(nn.Module):
         sigma = torch.exp(F.tanh(torch.dot(a_list[0].view(-1), self.Wa.view(-1)) 
                 + torch.mm(self.hidden[0].view(1,57),self.Wh)
                 + torch.mm(self.hidden[1].view(1,57),self.Wh)))
+        alpha_weights.append(sigma)
         for index in xrange(1,len(a_list)):
             a = torch.exp(F.tanh(torch.dot(a_list[index].view(-1), self.Wa.view(-1)) 
                 + torch.mm(self.hidden[0].view(1,57),self.Wh)
