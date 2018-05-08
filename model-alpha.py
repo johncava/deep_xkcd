@@ -88,14 +88,14 @@ class Model(nn.Module):
         return prediction_list
 
 
-max_epoch = 1
+max_epoch = 4
 learning_rate = 1e-3
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
 
 for epoch in xrange(max_epoch):
-    for index in xrange(2):
+    for index in xrange(1):
         comic = data[index]
         image, transcript = comic[0], comic[1]
         t = [Variable(torch.Tensor(hot[x.lower()]), requires_grad = False) for x in transcript]
@@ -106,6 +106,7 @@ for epoch in xrange(max_epoch):
         model.hidden = model.init_hidden()
         for pred, expected in zip(y_pred,output_):
             loss = loss + loss_fn(pred.view(1,57), torch.max(expected,1)[1])
+        print loss.item()
         optimizer.zero_grad()
         loss.backward()
         optimizer.step()
