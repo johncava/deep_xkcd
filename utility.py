@@ -22,7 +22,8 @@ def read_data(comics):
         # Read Image
         img = Image.open(directory + "/" + img_file[0].split("/")[-1])
         img = img.resize((224,224), Image.ANTIALIAS)
-        img_data = list(img.getdata())
+        # IMPORTANT NOTE: LET BAND EQUAL 0 TO AVOID TUPLES IN THE IMAGE DATA
+        img_data = list(img.getdata(band = 0))
         w, h = img.size
         img_data = [img_data[i * w :(i + 1) * w] for i in xrange(h)]
         # Read Transcript

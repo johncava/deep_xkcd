@@ -69,6 +69,7 @@ class Model(nn.Module):
         return alpha_weights
 
     def forward(self,image,input_):
+        #print len(image),len(image[0])
         image = Variable(torch.Tensor(image).view(1,1,224,224), requires_grad = False)
         image = self.cnn(image)
         #print image.size()
@@ -93,11 +94,13 @@ learning_rate = 1e-3
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
-
+loss_array = []
 for epoch in xrange(max_epoch):
-    for index in xrange(1):
+    for index in xrange(len(data)):
         comic = data[index]
         image, transcript = comic[0], comic[1]
+        #if index == 7:
+        #    print image
         t = [Variable(torch.Tensor(hot[x.lower()]), requires_grad = False) for x in transcript]
         input_ = [Variable(torch.Tensor(hot['<SOS>']),requires_grad = False)] + t
         output_ = [Variable(torch.Tensor(hot[y.lower()]), requires_grad = False).view(1,57).long() for y in transcript] + [Variable(torch.Tensor(hot['<EOS>']), requires_grad = False).view(1,57).long()]
@@ -106,13 +109,14 @@ for epoch in xrange(max_epoch):
         model.hidden = model.init_hidden()
         for pred, expected in zip(y_pred,output_):
             loss = loss + loss_fn(pred.view(1,57), torch.max(expected,1)[1])
-        print loss.item()
+        print index #,loss.item()
+        loss_array.append(loss.item())
         optimizer.zero_grad()
         loss.backward()
         optimizer.step()
 
 print "Done"
-
+np.save("loss1.npy", loss_array)
 '''
 out = model(input_)
 for i in out:
