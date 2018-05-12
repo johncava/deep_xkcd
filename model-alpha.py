@@ -12,13 +12,6 @@ data, corpus = read_data(get_list(20))
 dictionary = Counter(corpus)
 hot = create_hot(dictionary.keys())
 
-'''
-for c in data[0][1]:
-    print c
-'''
-
-#input_ = Variable(torch.Tensor(data[0][0]).view(1,1,224,224), requires_grad = False)
-
 class Model(nn.Module):
 
     def __init__(self):
@@ -52,9 +45,6 @@ class Model(nn.Module):
     
     def calc_alpha_weights(self, a_list):
         alpha_weights = []
-        #print a_list[0].view(1,169)#.size()
-        #print self.Wh
-        #print torch.mm(self.hidden[0].view(1,57),self.Wh) 
         sigma = torch.exp(F.tanh(torch.dot(a_list[0].view(-1), self.Wa.view(-1)) 
                 + torch.mm(self.hidden[0].view(1,57),self.Wh)
                 + torch.mm(self.hidden[1].view(1,57),self.Wh)))
@@ -70,19 +60,15 @@ class Model(nn.Module):
         return alpha_weights
 
     def forward(self,image,input_):
-        #print len(image),len(image[0])
         image = Variable(torch.Tensor(image).view(1,1,224,224), requires_grad = False)
         image = self.cnn(image)
-        #print image.size()
         a_list = image.view(15,169)
         prediction_list = []
         for character in input_:
-            #print character
             out, self.hidden = self.lstm(character.view(1,1,-1),self.hidden)
             alpha = self.calc_alpha_weights(a_list)
             z = Variable(torch.zeros(1,169))
             for a,b in zip(a_list, alpha):
-                #print a.size(),b.size()
                 z = z + a*b
             z_t = torch.cat((z, self.hidden[0].view(1,57),self.hidden[1].view(1,57)),1)
             prediction = self.linear(z_t)
@@ -91,7 +77,7 @@ class Model(nn.Module):
 
 
 max_epoch = 2
-learning_rate = 1e-1
+learning_rate = 1e-2
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
@@ -100,8 +86,6 @@ for epoch in xrange(max_epoch):
     for index in xrange(len(data)):
         comic = data[index]
         image, transcript = comic[0], comic[1]
-        #if index == 7:
-        #    print image
         t = [Variable(torch.Tensor(hot[x.lower()]), requires_grad = False) for x in transcript]
         input_ = [Variable(torch.Tensor(hot['<SOS>']),requires_grad = False)] + t
         output_ = [Variable(torch.Tensor(hot[y.lower()]), requires_grad = False).view(1,57).long() for y in transcript] + [Variable(torch.Tensor(hot['<EOS>']), requires_grad = False).view(1,57).long()]
@@ -117,7 +101,7 @@ for epoch in xrange(max_epoch):
         optimizer.step()
 
 print "Done"
-np.save("loss3.npy", loss_array)
+np.save("loss4.npy", loss_array)
 '''
 out = model(input_)
 for i in out:
