@@ -31,6 +31,10 @@ class Model(nn.Module):
                 nn.MaxPool2d(2)
                 )
         self.linear = nn.Sequential(
+                nn.Linear(283,283),
+                nn.ReLU(),
+                nn.Linear(283,283),
+                nn.ReLU(),
                 nn.Linear(283,57),
                 nn.ReLU()
                 )
@@ -76,8 +80,8 @@ class Model(nn.Module):
         return prediction_list
 
 
-max_epoch = 2
-learning_rate = 1e-6
+max_epoch = 4
+learning_rate = 1e-4
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
@@ -101,4 +105,4 @@ for epoch in xrange(max_epoch):
         optimizer.step()
 
 print "Done"
-np.save("loss6.npy", loss_array)
+np.save("loss10.npy", loss_array)
