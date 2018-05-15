@@ -117,13 +117,6 @@ for epoch in xrange(max_epoch):
         loss.backward()
         optimizer.step()
 
-'''
+
 print "Done"
-np.save("loss6.npy", loss_array)
-model = Model()
-out = model(v)
-out = out.view(512,64)
-for i in out:
-    print i.size()
-    break
-'''
+np.save("loss11.npy", loss_array)

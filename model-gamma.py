@@ -71,7 +71,7 @@ class Model(nn.Module):
         return prediction_list
 
 
-max_epoch = 1
+max_epoch = 2
 learning_rate = 1e-3
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
