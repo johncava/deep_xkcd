@@ -36,7 +36,33 @@ def read_data(comics):
                         continue
                     character_corpus = character_corpus + [character.lower()]
         data.append([img_data, transcript])
+    print "Data is read"
     return data, character_corpus
+
+def read_region_data(comics):
+    data = []
+    for comic in comics:
+        strip_data = []
+        directory = "xkcd_archive/" + str(comic)
+        img_file = glob.glob(directory + "/*.png")
+        if len(img_file) < 1:
+            continue
+        # Read Image
+        img = Image.open(directory + "/" + img_file[0].split("/")[-1])
+        img = img.resize((512,512), Image.ANTIALIAS)
+        img_data = list(img.getdata(band = 0))
+        w, h = img.size
+        img_data = [img_data[i * w :(i + 1) * w] for i in xrange(h)]
+        # Read region data
+        regions = []
+        with open(directory + '/region.data','r') as f:
+            for line in f:
+                r = line.strip("\n").split(",")
+                r = [int(x) for x in r]
+                regions.append(r)
+        data.append([img_data,regions])
+    print "Data is read"
+    return data
 
 def create_hot(dic_keys):
     hot = {}
