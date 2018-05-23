@@ -84,7 +84,7 @@ class Model(nn.Module):
         return image
 
 
-max_epochs = 24
+max_epochs = 30
 batch_size = 3
 learning_rate = 1e-3
 model = Model()
@@ -120,5 +120,5 @@ for epoch in xrange(max_epochs):
         print "Index ", iteration
 
 print "Done"
-np.save("loss32.npy", loss_array)
-torch.save(model.state_dict(), "mask-r-cnn-4[1e-3].model")
+np.save("loss33.npy", loss_array)
+torch.save(model.state_dict(), "mask-r-cnn-4[1e-3][epoch=30].model")
