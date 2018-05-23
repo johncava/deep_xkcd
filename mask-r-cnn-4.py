@@ -86,7 +86,7 @@ class Model(nn.Module):
 
 max_epochs = 24
 batch_size = 3
-learning_rate = 5e-4
+learning_rate = 1e-3
 model = Model()
 #model = autoencoder()
 loss_fn = nn.MSELoss()
@@ -120,5 +120,5 @@ for epoch in xrange(max_epochs):
         print "Index ", iteration
 
 print "Done"
-np.save("loss31.npy", loss_array)
-torch.save(model.state_dict(), "mask-r-cnn-4-improved.model")
+np.save("loss32.npy", loss_array)
+torch.save(model.state_dict(), "mask-r-cnn-4[1e-3].model")
