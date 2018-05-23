@@ -18,7 +18,7 @@ class Model(nn.Module):
         super(Model, self).__init__()
         self.pool = nn.MaxPool2d(2, 2, return_indices=True)
         self.unpool = nn.MaxUnpool2d(2, 2)
-        self.relu = nn.ReLU()
+        self.relu = nn.LeakyReLU()
         self.conv = nn.Conv2d(1,64,kernel_size=3)
         self.conv2 = nn.Conv2d(64,64,kernel_size = 3)
         self.deconv = nn.ConvTranspose2d(64,64,kernel_size=3)
@@ -87,12 +87,12 @@ class Model(nn.Module):
         image = self.deconv(image)
         image = self.relu(image)
         image = self.deconv2(image)
-        #image = self.relu(image)
-        image = self.sigmoid(image)
+        image = self.relu(image)
+        #image = self.sigmoid(image)
         return image
 
-max_epochs = 5
-learning_rate = 1e-1
+max_epochs = 24
+learning_rate = 1e-4
 model = Model()
 loss_fn = nn.MSELoss()
 optimizer = optim.Adam(model.parameters(),lr = learning_rate)
@@ -102,12 +102,13 @@ for epoch in xrange(max_epochs):
     for iteration in xrange(len(data)):
         img_data = data[iteration][0]
         regions_list = data[iteration][1]
-        m = [[0]*512]*512
+        #m = [[0]*512]*512
+        m = img_data
         m = np.array(m)
         for r in regions_list:
-            m[(r[1]):(r[1]+r[3]),r[0]:(r[0]+r[2])] = 1
-        x = Variable(torch.Tensor(img_data), requires_grad = False).view(1,1,512,512)
-        y = Variable(torch.Tensor(m), requires_grad = False).view(1,1,512,512)
+            m[(r[1]):(r[1]+r[3]),r[0]:(r[0]+r[2])] = 255
+        x = Variable(torch.Tensor(img_data).view(1,1,512,512), requires_grad = False)
+        y = Variable(torch.Tensor(m).view(1,1,512,512), requires_grad = False)
         prediction = model(x) 
         loss = loss_fn(prediction, y)
         print "Index ", iteration
@@ -117,4 +118,5 @@ for epoch in xrange(max_epochs):
         optimizer.step()
 
 print "Done"
-np.save("loss14.npy", loss_array)
+np.save("loss24.npy", loss_array)
+torch.save(model.state_dict(), "mask-r-cnn.model")
