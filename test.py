@@ -87,7 +87,7 @@ class Model(nn.Module):
 model = Model()
 model.load_state_dict(torch.load('mask-r-cnn-4[1e-3][epoch=30].model'))
 
-img_data = data[1][0]
+img_data = data[2][0]
 img_data = np.array(img_data)
 np_img = img_data[:]
 img_data /= 255
