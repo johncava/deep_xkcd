@@ -88,6 +88,8 @@ class Model(nn.Module):
         self.hidden = self.init_hidden()
         self.linear = nn.Sequential(
                 nn.Linear(2304,56),
+                nn.ReLU(),
+                nn.Linear(56,56),
                 nn.ReLU()
                 )
 
@@ -165,7 +167,7 @@ out = model(x)
 print out.size()
 '''
 
-max_epoch = 6
+max_epoch = 3
 learning_rate = 1e-4
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
@@ -190,5 +192,5 @@ for epoch in xrange(max_epoch):
         optimizer.step()
         #print "End"
 print "Done"
-np.save("loss34.npy", loss_array)
-torch.save(model.state_dict(), "omega.model")
+np.save("loss35.npy", loss_array)
+#torch.save(model.state_dict(), "omega.model")
