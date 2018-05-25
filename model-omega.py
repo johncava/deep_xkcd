@@ -52,7 +52,7 @@ for comic in comics:
         # Append image and text label into dataset
         dataset.append([canvas, character_list])
 
-print "Dataset Created"
+print "Dataset Created ", len(dataset)
 dictionary = Counter(corpus)
 hot = create_hot(dictionary.keys())
 print "Hot Encoding Created"
@@ -165,7 +165,7 @@ out = model(x)
 print out.size()
 '''
 
-max_epoch = 1
+max_epoch = 6
 learning_rate = 1e-4
 model = Model()
 loss_fn = nn.CrossEntropyLoss()
@@ -189,6 +189,6 @@ for epoch in xrange(max_epoch):
         loss.backward()
         optimizer.step()
         #print "End"
-        #break
-    break
 print "Done"
+np.save("loss34.npy", loss_array)
+torch.save(model.state_dict(), "omega.model")
