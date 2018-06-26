@@ -1,0 +1,30 @@
+import cv2
+import numpy as np
+from PIL import Image
+
+if __name__ == '__main__' :
+ 
+    # Read image
+    im = cv2.imread("./WisdomoftheAncients.png")
+    im = cv2.resize(im, (512,512))
+    region_list = []
+    while True: 
+	    # Select ROI
+	    r = cv2.selectROI(im)
+	     
+	    # Crop image
+	    # (x,y,w,h)
+	    # r[1]:r[1]+r[3], r[0]:r[0]+r[2]
+	    region_list.append((r[0],r[1],r[2],r[3]))
+	    imCrop = im[int(r[1]):int(r[1]+r[3]), int(r[0]):int(r[0]+r[2])]
+	 
+	    # Display cropped image
+	    cv2.imshow("Image", imCrop)
+	    cv2.waitKey(0)
+    	    #cv2.destroyAllWindows()
+            with open('region.data','a') as f:
+	    	print "hi"
+	        #for region in region_list:
+	        x,y,w,h = r
+		f.write(str(x) + "," + str(y) + "," + str(w) + "," + str(h) + "\n")
+
